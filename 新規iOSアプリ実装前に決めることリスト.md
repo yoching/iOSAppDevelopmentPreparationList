@@ -91,6 +91,8 @@
 
 ### ライブラリ
 
+※ [awesome-swift](https://github.com/matteocrippa/awesome-swift)や [awesome-ios](https://github.com/vsouza/awesome-ios)などに種類別にまとまってたりするので、それを眺めるのがオススメです。
+
 #### テスト
 
 - Quick / Nimble
@@ -108,7 +110,7 @@
 - Nuke
 - ...
 
-#### JSONエンコーダー
+#### JSONエンコーダー・デコーダー
 
 ※ swift4では必要なくなる？
 
