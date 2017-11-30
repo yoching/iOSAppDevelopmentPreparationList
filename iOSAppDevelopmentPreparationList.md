@@ -3,10 +3,10 @@
 ## Premises
 
 ### Project characters
-(How big it is / development duration / constraints / difference from general projects)
+(scope / development duration / constraints / differences from general projects)
 
 ### Product characters
-(technology to use / framework / OS / devices)
+(technologies to use / framework / OS / devices)
 
 ### Motivations of each developer
 (want to do / popular technologies / improvements from previous projects)

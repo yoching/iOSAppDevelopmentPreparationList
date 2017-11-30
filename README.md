@@ -2,8 +2,8 @@
 
 This is a list for new iOS app development preparation.
 
+- [iOS App Development Preparation List](./iOSAppDevelopmentPreparationList.md)
 - [新規iOSアプリ実装前に決めることリスト（日本語）](./新規iOSアプリ実装前に決めることリスト.md)
-- English version: coming soon
 
 ## Presentation
 
