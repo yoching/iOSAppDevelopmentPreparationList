@@ -110,6 +110,11 @@ cf.) [awesome-swift](https://github.com/matteocrippa/awesome-swift),  [awesome-i
 - Nuke
 - ...
 
+#### Localization support
+
+- SwiftGen
+- ...
+
 #### JSON encoder / decoder
 
 (swift4 Codable protocol will be enough)
