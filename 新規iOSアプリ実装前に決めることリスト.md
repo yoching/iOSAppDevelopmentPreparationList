@@ -158,6 +158,11 @@
 - VIPER
 - Clean Architecture
 - Redux
+- ReactorKit (Library/Framework)
+- RIBs
+- MVC+ViewState
+- ModelAdapter-ViewBinder
+- Elm
 - ...
 
 ### フレームワークの分割

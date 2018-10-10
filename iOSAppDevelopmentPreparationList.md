@@ -164,6 +164,11 @@ cf.) [awesome-swift](https://github.com/matteocrippa/awesome-swift),  [awesome-i
 - VIPER
 - Clean Architecture
 - Redux
+- ReactorKit (Library/Framework)
+- RIBs
+- MVC+ViewState
+- ModelAdapter-ViewBinder
+- Elm
 - ...
 
 ### Framework division
