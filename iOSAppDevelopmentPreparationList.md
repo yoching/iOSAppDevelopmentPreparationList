@@ -98,6 +98,12 @@ cf.) [awesome-swift](https://github.com/matteocrippa/awesome-swift),  [awesome-i
 - Quick / Nimble
 - ...
 
+#### Database
+
+- CoreData
+- Realm
+- ...
+
 #### Network
 
 - Alamofire
