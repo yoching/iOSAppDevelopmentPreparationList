@@ -96,6 +96,13 @@ cf.) [awesome-swift](https://github.com/matteocrippa/awesome-swift),  [awesome-i
 #### Test
 
 - Quick / Nimble
+- SwiftCheck
+- ...
+
+#### Stub / Mock
+
+- OHHTTPStubs
+- Mockingjay
 - ...
 
 #### Database
@@ -103,6 +110,10 @@ cf.) [awesome-swift](https://github.com/matteocrippa/awesome-swift),  [awesome-i
 - CoreData
 - Realm
 - ...
+
+#### UserDefaults
+
+- SwiftyUserDefaults
 
 #### Network
 
@@ -119,6 +130,12 @@ cf.) [awesome-swift](https://github.com/matteocrippa/awesome-swift),  [awesome-i
 #### Localization support
 
 - SwiftGen
+- ...
+
+#### App Routing
+
+- Coordinator Pattern (without library)
+- Compass
 - ...
 
 #### JSON encoder / decoder

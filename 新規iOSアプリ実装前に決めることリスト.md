@@ -96,7 +96,24 @@
 #### テスト
 
 - Quick / Nimble
+- SwiftCheck
 - ...
+
+#### Stub / Mock
+
+- OHHTTPStubs
+- Mockingjay
+- ...
+
+#### Database
+
+- CoreData
+- Realm
+- ...
+
+#### UserDefaults
+
+- SwiftyUserDefaults
 
 #### 通信
 
@@ -113,6 +130,12 @@
 #### 多言語化対応
 
 - SwiftGen
+- ...
+
+#### ルーティング
+
+- Coordinator Pattern (without library)
+- Compass
 - ...
 
 #### JSONエンコーダー・デコーダー
